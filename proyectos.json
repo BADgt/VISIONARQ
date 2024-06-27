@@ -1,0 +1,122 @@
+[
+    
+    {
+        "categoria": "edificio",
+        "presupuesto": "alto",
+        "imagen": "Imagenes/torre.png",
+        "descripcion": "Edificio Moderno",
+        "descripciontotal": "Edificio moderno que combina diseño vanguardista con tecnología de última generación, ideal para empresas que buscan un espacio emblemático y eficiente."
+    },
+    {
+        "categoria": "casa",
+        "presupuesto": "alto",
+        "imagen": "Imagenes/pileta1.png",
+        "descripcion": "Casa de Lujo con pileta en Merlo",
+        "descripciontotal": "Casa de lujo que combina elegancia y comodidad, con una espectacular piscina y vistas panorámicas que crean un ambiente de exclusividad y confort."
+    },
+    {
+        "categoria": "comercio",
+        "presupuesto": "alto",
+        "imagen": "Imagenes/locales.jpg",
+        "descripcion": "Varios locales situados en Ciudad",
+        "descripciontotal": "Varios locales comerciales ubicados en el corazón de la ciudad, ofreciendo una amplia gama de servicios y productos para satisfacer las necesidades de la comunidad."
+    },
+    {
+        "categoria": "edificio",
+        "presupuesto": "alto",
+        "imagen": "Imagenes/colectivasocial.jpg",
+        "descripcion": "Edificio de la Colectiva Social",
+        "descripciontotal": "Edificio de la Colectiva Social, diseñado para promover la interacción comunitaria y ofrecer servicios innovadores que mejoran la calidad de vida en la ciudad."
+    },
+    {
+        "categoria": "casa",
+        "presupuesto": "alto",
+        "imagen": "Imagenes/casalujo.png",
+        "descripcion": "Casa Futurista en Suburbios",
+        "descripciontotal": "Casa futurista que redefine los límites del diseño arquitectónico, incorporando tecnología avanzada y formas innovadoras que inspiran y sorprenden."
+    },
+    {
+        "categoria": "casa",
+        "presupuesto": "medio",
+        "imagen": "Imagenes/casa1.jpeg",
+        "descripcion": "Casa moderna con pileta en San Luis",
+        "descripciontotal": "Casa moderna con un diseño contemporáneo que incluye una piscina, perfecta para disfrutar momentos de tranquilidad y diversión en familia."
+    },
+    {
+        "categoria": "comercio",
+        "presupuesto": "alto",
+        "imagen": "Imagenes/concesionaria.png",
+        "descripcion": "Concesionaria de autos Moderna",
+        "descripciontotal": "Concesionaria de autos que ofrece una experiencia única de compra, con vehículos de última generación y un servicio al cliente excepcional."
+    },
+    {
+        "categoria": "edificio",
+        "presupuesto": "medio",
+        "imagen": "Imagenes/unlc2.jpg",
+        "descripcion": "Fachada de la Universidad en Comechingones ",
+        "descripciontotal": "Edificio central de la Universidad de Comechingones, conocido por sus instalaciones modernas y funcionales que promueven un entorno académico dinámico y propicio para el aprendizaje."
+    },
+    {
+        "categoria": "comercio",
+        "presupuesto": "medio",
+        "imagen": "Imagenes/clinica.jpg",
+        "descripcion": "Clinica Ocular en San Luis",
+        "descripciontotal": "Clínica Ocular especializada en servicios médicos avanzados, donde la tecnología de vanguardia se combina con un enfoque humano y personalizado, asegurando el bienestar y la salud visual."
+    },
+    {
+        "categoria": "casa",
+        "presupuesto": "medio",
+        "imagen": "Imagenes/casa2.jpeg",
+        "descripcion": "Casa de Diseño en San Luis",
+        "descripciontotal": "Casa de diseño que destaca por sus líneas modernas y funcionalidad, ideal para aquellos que buscan un espacio contemporáneo y confortable."
+    },
+    {
+        "categoria": "edificio",
+        "presupuesto": "medio",
+        "imagen": "Imagenes/unlc.jpg",
+        "descripcion": "Universidad en Comechingones",
+        "descripciontotal": "Edificio de la Universidad de Comechingones, reconocido por su arquitectura moderna que destaca por su innovación, funcionalidad, y su compromiso con la excelencia académica."
+    },
+    {
+        "categoria": "comercio",
+        "presupuesto": "bajo",
+        "imagen": "Imagenes/oficina.jpg",
+        "descripcion": "Oficina de Trabajo",
+        "descripciontotal": "Oficina moderna diseñada para ofrecer un ambiente profesional y confortable, ideal para mejorar la productividad y el bienestar de los trabajadores."
+    },
+    {
+        "categoria": "edificio",
+        "presupuesto": "bajo",
+        "imagen": "Imagenes/biblioteca.jpeg",
+        "descripcion": "Biblioteca de la universidad de cuyo",
+        "descripciontotal": "Biblioteca ubicada en la Universidad de Cuyo, diseñada para fomentar el estudio y la investigación con espacios cómodos y accesibles."
+    },
+    {
+        "categoria": "comercio",
+        "presupuesto": "bajo",
+        "imagen": "Imagenes/localropa.jpg",
+        "descripcion": "Local de ropa en San Luis",
+        "descripciontotal": "Tienda de ropa ubicada en San Luis, que ofrece una amplia variedad de productos y un ambiente acogedor para una experiencia de compra única."
+    },
+    {
+        "categoria": "edificio",
+        "presupuesto": "bajo",
+        "imagen": "Imagenes/fachadacuyo.jpeg",
+        "descripcion": "Interior de la universidad de cuyo",
+        "descripciontotal": "Interior de la Universidad de Cuyo, que combina modernidad y funcionalidad para ofrecer un ambiente académico estimulante y colaborativo."
+    },
+    {
+        "categoria": "casa",
+        "presupuesto": "bajo",
+        "imagen": "Imagenes/casa.jpg",
+        "descripcion": "Casa moderna en San Luis",
+        "descripciontotal": "Casa moderna con un diseño contemporáneo que combina líneas limpias y espacios abiertos, rodeada de un amplio jardín paisajístico que invita a la relajación y el disfrute al aire libre."
+    },
+    {
+        "categoria": "casa",
+        "presupuesto": "bajo",
+        "imagen": "Imagenes/2.jpg",
+        "descripcion": "Casa de campo en Villa Mercedes",
+        "descripciontotal": "Casa de campo con un diseño arquitectónico elegante que combina tradición y modernidad, ofreciendo vistas impresionantes al lago y un ambiente acogedor perfecto para el descanso."
+    }
+]
